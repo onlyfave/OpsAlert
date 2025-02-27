@@ -1,1 +1,6 @@
+flask
+slack_sdk
+requests
+boto3
+python-dotenv
 
